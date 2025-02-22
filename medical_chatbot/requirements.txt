@@ -1,0 +1,4 @@
+langchain
+langchain_huggingface
+faiss-cpu
+streamlit
