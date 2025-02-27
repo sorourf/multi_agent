@@ -1,6 +1,0 @@
-yfinance 
-pandas 
-plotly 
-google-generativeai
-kaleido
-#pip install -U kaleido
